@@ -1,0 +1,5 @@
+com\technosignia\Person\service\PersonService.class
+com\technosignia\Person\PersonApplication.class
+com\technosignia\Person\entity\Person.class
+com\technosignia\Person\controller\PersonController.class
+com\technosignia\Person\repository\PersonRepository.class
